@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/C:\\Users\\ccmm\\Desktop\\projects\\HIS Group IT\\U-GETMO-FE\\components\\admin\\customers/**)",
+      "Read(/C:\\Users\\ccmm\\Desktop\\projects\\HIS Group IT\\U-GETMO-FE\\endpoints\\rest-api/**)",
+      "Read(/C:\\Users\\ccmm\\Desktop\\projects\\HIS Group IT\\U-GETMO-FE\\interfaces\\analytics/**)",
+      "Read(/C:\\Users\\ccmm\\Desktop\\projects\\HIS Group IT\\U-GETMO-FE\\components\\admin\\products/**)",
+      "Read(/C:\\Users\\ccmm\\Desktop\\projects\\HIS Group IT\\U-GETMO-FE\\components\\admin\\products/**)",
+      "Read(/C:\\Users\\ccmm\\Desktop\\projects\\HIS Group IT\\U-GETMO-FE\\components\\admin\\products/**)",
+      "Bash(npm run typecheck:*)",
+      "Bash(npm run:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
